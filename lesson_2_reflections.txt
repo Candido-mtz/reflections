@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Cuando se inicializa un repositorio se crea la "estructura" dentro de la carpeta .git.
+Es importante hacerlo para q sea posible utilizarlo como un repositorio.
+
